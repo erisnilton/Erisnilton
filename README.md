@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá! Eu sou o Erisnilton Freitas
-- 🌱 Atualmente estou aprendendo  AngularJS, NestJS, ReactJS, Flutter, Spring boot
+- 🌱 Atualmente estou aprendendo  __Angular, ReactJS, NestJS, Spring boot, Flutter__.
 - 😄 Pronouns: ele/dele 
 ##
  <div>
