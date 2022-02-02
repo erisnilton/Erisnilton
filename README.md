@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá! Eu sou o Erisnilton Freitas
-- 🌱 Atualmente estou aprendendo  __Angular, VueJS, ReactJS, NestJS, Spring boot, Flutter__.
+- 🌱 Atualmente estou aprendendo  __ReactJS, NextJS, Spring boot, Flutter__.
 - 😄 Pronouns: ele/dele 
 ##
  <div>
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  ### <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  ### <img align="center" alt="AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   
  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
