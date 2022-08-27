@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 😄 Pronouns: ele/dele 
 -->
 ## Olá! Eu sou o Erisnilton Freitas
 - 🌱 Atualmente estou aprendendo __Spring Boot__, __ReactJS, NextJS__
-## 😄 Pronouns: ele/dele 
+
 ##
  <div>
   <a href="https://github.com/erisnilton">
