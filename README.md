@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ## Olá! Eu sou o Erisnilton Freitas
 - 🌱 Atualmente estou aprendendo __Spring Boot__, __ReactJS, NextJS__
-- 😄 Pronouns: ele/dele 
+## 😄 Pronouns: ele/dele 
 ##
  <div>
   <a href="https://github.com/erisnilton">
