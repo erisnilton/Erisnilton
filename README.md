@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá! Eu sou o Erisnilton Freitas
-- 🌱 Atualmente estou aprendendo  __ReactJS, NextJS__
+- 🌱 Atualmente estou aprendendo __Spring Boot__, __ReactJS, NextJS__
 - 😄 Pronouns: ele/dele 
 ##
  <div>
