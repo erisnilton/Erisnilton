@@ -73,4 +73,4 @@ Painel interativo com **Power BI** para visualização de dados educacionais.
   </a> 
 </div>
 
-<!-- ![Snake animation](https://github.com/erisnilton/erisnilton/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/erisnilton/erisnilton/blob/output/github-contribution-grid-snake.svg)
