@@ -4,7 +4,7 @@
 
 ## Olá! Eu sou o Erisnilton Freitas 👋
 
-💻 Desenvolvedor Full Stack desde 2019 | 🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Full Stack desde  | 🎓 Estudante de Ciência da Computação
 
 - 🚀 Atualmente focado em: **Java**, **VueJS**, **ReactJS**, **NextJS**, **Power BI**
 - 🧠 Com experiência em desenvolvimento web full stack utilizando tecnologias modernas
