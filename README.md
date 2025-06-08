@@ -72,6 +72,8 @@ O projeto é totalmente conteinerizado com **Docker** e **Docker Compose**, e po
 </div>
 
 ---
-
-<!-- Animação Snake -->
+<div>
+  <!-- Animação Snake -->
 ![Snake animation](https://github.com/erisnilton/erisnilton/blob/output/github-contribution-grid-snake.svg)
+</div>
+
