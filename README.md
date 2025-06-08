@@ -37,7 +37,7 @@
   <img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
 </div>
 
----
+##
 
 ## 🚀 Projetos em Destaque
 
@@ -47,21 +47,19 @@ Os dados são atualizados via **WebSocket** e armazenados temporariamente em **c
 Desenvolvido com foco em boas práticas de backend com **Node.js**.  
 🔧 Tecnologias: Node.js, Express, Redis, WebSocket, Vue.js
 
----
 
 ### 📌 [Monitor de Sistema](https://github.com/erisnilton/monitor-do-sistema)  
 Aplicação desenvolvida com **VueJS** e **NodeJS** para monitoramento em tempo real dos recursos do sistema operacional Linux (CPU, memória, uso de disco etc).  
 Utiliza **WebSocket** para comunicação em tempo real e comandos nativos do Linux integrados via backend Node.js.  
 🔧 Tecnologias: VueJS, Node.js, WebSocket, Integração com comandos do Linux
 
----
 
 ### 📌 [Encurtador de Link](https://github.com/erisnilton/encurtador-de-link)  
 Aplicação para encurtamento de URLs desenvolvida com **Node.js** e **Express**, persistindo os dados em **PostgreSQL** com **Knex.js**.  
 O projeto é totalmente conteinerizado com **Docker** e **Docker Compose**, e possui uma interface estática simples com **HTML**, **CSS** e **JavaScript**.  
 🔧 Tecnologias: Node.js, Express, PostgreSQL, Knex.js, Docker, Docker Compose, HTML, CSS, JavaScript
 
----
+##
 
 ## 🌐 Conecte-se comigo
 
@@ -71,7 +69,6 @@ O projeto é totalmente conteinerizado com **Docker** e **Docker Compose**, e po
   <a href="https://www.linkedin.com/in/erisnilton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
----
   <!-- Animação Snake -->
 ![Snake animation](https://github.com/erisnilton/erisnilton/blob/output/github-contribution-grid-snake.svg)
 
