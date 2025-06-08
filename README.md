@@ -41,15 +41,18 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📌 [Monitor de Sistema](https://github.com/erisnilton/monitor-do-sistema)
-Aplicação desenvolvida com **VueJS** e **NodeJS**, que permite Monitorar em tempo real recurso do sistema operacional (Linux).  
-🔧 Tecnologias: VueJS, NodeJS, Websocket, Integração do comando linux com NodeJS.
+### 📌 [Monitor de Sistema](https://github.com/erisnilton/monitor-do-sistema)  
+Aplicação desenvolvida com **VueJS** e **NodeJS** para monitoramento em tempo real dos recursos do sistema operacional Linux (CPU, memória, uso de disco etc).  
+Utiliza **WebSocket** para comunicação em tempo real e comandos nativos do Linux integrados via backend Node.js.  
+🔧 Tecnologias: VueJS, Node.js, WebSocket, Integração com comandos do Linux
 
 ---
 
-### 📌 [Nome do Projeto 2](https://github.com/erisnilton/nome-do-projeto-2)
-Projeto criado para [finalidade do projeto], com foco em boas práticas de backend com **Node.js**.  
-🔧 Tecnologias: Node.js, Express, TypeORM, JWT
+### 📌 [CriptoTrack](https://github.com/erisnilton/criptotrack)  
+Aplicação que exibe a cotação de criptomoedas em tempo real, utilizando a API pública da CoinGecko.  
+Os dados são atualizados via **WebSocket** e armazenados temporariamente em **cache com Redis**, garantindo alta performance e eficiência.  
+Desenvolvido com foco em boas práticas de backend com **Node.js**.  
+🔧 Tecnologias: Node.js, Express, Redis, WebSocket, Vue.js
 
 ---
 
