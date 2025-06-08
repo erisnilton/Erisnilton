@@ -41,9 +41,9 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📌 [Nome do Projeto 1](https://github.com/erisnilton/nome-do-projeto-1)
-Aplicação desenvolvida com **ReactJS** e **NestJS**, que permite [descrever o objetivo do projeto].  
-🔧 Tecnologias: React, NestJS, PostgreSQL, Docker
+### 📌 [Monitor de Sistema](https://github.com/erisnilton/monitor-do-sistema)
+Aplicação desenvolvida com **VueJS** e **NodeJS**, que permite Monitorar em tempo real recurso do sistema operacional (Linux).  
+🔧 Tecnologias: VueJS, NodeJS, Websocket, Integração do comando linux com NodeJS.
 
 ---
 
