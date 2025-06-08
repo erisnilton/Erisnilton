@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 😄 Pronouns: ele/dele 
 -->
 ## Olá! Eu sou o Erisnilton Freitas
-- 🌱 Atualmente estou aprendendo __VueJS__, __ReactJS, NextJS__, __Power BI__
+- 🌱 Atualmente estou aprendendo __Java__, __VueJS__, __ReactJS, NextJS__, __Power BI__
 
 ##
  <div>
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
    <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
  
  ##
