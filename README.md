@@ -37,6 +37,27 @@
 </div>
 
 ---
+---
+
+## 🚀 Projetos em Destaque
+
+### 📌 [Nome do Projeto 1](https://github.com/erisnilton/nome-do-projeto-1)
+Aplicação desenvolvida com **ReactJS** e **NestJS**, que permite [descrever o objetivo do projeto].  
+🔧 Tecnologias: React, NestJS, PostgreSQL, Docker
+
+---
+
+### 📌 [Nome do Projeto 2](https://github.com/erisnilton/nome-do-projeto-2)
+Projeto criado para [finalidade do projeto], com foco em boas práticas de backend com **Node.js**.  
+🔧 Tecnologias: Node.js, Express, TypeORM, JWT
+
+---
+
+### 📌 [Nome do Projeto 3](https://github.com/erisnilton/nome-do-projeto-3)
+Painel interativo com **Power BI** para visualização de dados educacionais.  
+🔧 Tecnologias: Power BI, DAX, SQL
+
+---
 
 ## 🌐 Conecte-se comigo
 
