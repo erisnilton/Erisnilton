@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 😄 Pronouns: ele/dele 
 -->
 ## Olá! Eu sou o Erisnilton Freitas
-- 🌱 Atualmente estou aprendendo __VueJS__, __ReactJS, NextJS__
+- 🌱 Atualmente estou aprendendo __VueJS__, __ReactJS, NextJS__, __Power BI__
 
 ##
  <div>
