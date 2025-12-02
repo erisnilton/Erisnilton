@@ -6,10 +6,10 @@
 
 💻 Desenvolvedor Full Stack  | 🎓 Estudante de Ciência da Computação
 
-- 🚀 Atualmente focado em: **Java**, **ReactJS**,  **VueJS**, **NextJS**, **Power BI**
-- 🧠 Com experiência em desenvolvimento web full stack utilizando tecnologias modernas
-- 📊 Interessado em dados, visualização com Power BI e integração com backend
-- 🔄 Sempre aprendendo, evoluindo e compartilhando conhecimento
+- 🚀 Foco atual: NodeJS, NextJS, VueJS, ReactJS e aplicações com IA Generativa
+- 🧠 Experiência sólida em desenvolvimento web full stack, construindo soluções modernas e performáticas
+- 🔌 Interesse especial em integrar IA Generativa a sistemas backend para criar produtos inteligentes
+- 🔄 Evolução contínua: sempre estudando, construindo e compartilhando o que aprendo
 
 ##
 
